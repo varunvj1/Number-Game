@@ -1,5 +1,5 @@
 # About the Project
-This is a beginner friendly project that can help in understanding the fundamentals of JavaScript and the DOM (Document Object Model).
+This is a beginner friendly project to understand the fundamentals of JavaScript and the DOM (Document Object Model).
 <br>
 <br>
 # How to Play
